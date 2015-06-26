@@ -35,13 +35,15 @@ Git Init -- student pops up.
 Git Add -- hands the document to the student.
 Git commit 
 
+(David Eads and Jue Yang)
+
 ###Act out Request/Response cycle###
 
 Make people put post it notes on their forehead identifying themselves as The User, the Browser, the Website and the Resource Requested and act out the user asking the browser to go to a website and get a resource and return it. That's a GET request.
 
 You can do it also with a post request: Browser hands Website a Payload -- posting something to the website -- where the Resource will interpret the User being logged in, and create a thing (a calendar request, for example), which goes back to the website, to the Browser to the User.
 
--- Dave Stanton, Joe Germuska 
+(Dave Stanton, Joe Germuska, Cathy Deng, Jacob Sanders)
 
 ###HTML/CSS/JavaScript Interactions###
 
@@ -70,6 +72,6 @@ You could teach people to stop the loop when you find the condition.
 
 Watch out for students reverse sorting the loop -- that's not how it happens on the computer. You have to agree on how to loop through the loop. Be conscious of doing the loop exactly how it would appear on a computer.
 
-
+(Helga Salinas, Alyson Hurt, Carlos Lemos, Sisi Wei, Michael Keller)
 
 
