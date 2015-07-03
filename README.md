@@ -47,11 +47,15 @@ You can do it also with a post request: Browser hands Website a Payload -- posti
 
 ###HTML/CSS/JavaScript Interactions###
 
-Use Legos
 
-HTML is the blocks
-The color is the CSS
-The javascript is what you make
+Thinking of HTML/CSS/JavaScript as a puzzle or board game more than a skit. It seems too prescriptive to be a skit. There is some interaction but it is all a series of directions that never really change.
+
+Two ideas:
+1. Students get a card that has html and css written on it. They are also given either a set of legos or a page with tangram type shape pieces and they have to follow the html and css to create the page that is described with the cards. They could also act out the JS if there was a third part.
+
+2. Write HTML/CSS/JS to replace Ikea furniture directions.
+
+(Arjuna Soriano, David Yee, Sydette, Yolanda Martinez)
 
 
 ###Variable and loops using board games###
